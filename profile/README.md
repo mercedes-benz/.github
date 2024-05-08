@@ -1,6 +1,6 @@
 # 🚀Welcome to Mercedes-Benz Group Open Source Platform!
 
-![vision-avtr.avif](vision-avtr.avif)
+![vision-avtr.avif](./vision-avtr.avif)
 
 
 ## 👋 Hello Open Sourcerers, 
