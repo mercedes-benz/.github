@@ -20,7 +20,7 @@ We welcome contributions to our open source projects. Know more about our,
 
 ### 📧 Get in touch
 Have questions or feedback? We'd love to hear from you! 
-> Reach out to us via - foss@mercedes-benz.com
+- Reach out to us via - foss@mercedes-benz.com
 
 Thank you for visiting Mercedes-Benz Group GitHub Organization. We hope to see you around.  
 Together, let's drive innovation forward 
