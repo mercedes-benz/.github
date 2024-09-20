@@ -25,3 +25,8 @@ Have questions or feedback? We'd love to hear from you!
 Thank you for visiting Mercedes-Benz Group GitHub Organization. We hope to see you around.  
 Together, let's drive innovation forward 
 
+### License
+This overview page including the image is subject to Copyright Mercedes-Benz Group AG. All Rights Reserved. It may not be copied for commercial use or distribution, nor modified or reposted to other web sites, apps or other digital content. 
+
+For other content and code in this organization, please refer to the specific license files included in the repository.
+
