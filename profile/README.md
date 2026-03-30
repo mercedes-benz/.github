@@ -1,6 +1,6 @@
 # 🚀Welcome to Mercedes-Benz Group Open Source Platform!
 
-![alt text](https://raw.githubusercontent.com/mercedes-benz/.github/main/vision-avtr.avif)
+![alt text](https://raw.githubusercontent.com/mercedes-benz/.github/main/ConceptCarOct2025.png)
 
 
 ## 👋 Hello Open Sourcerers, 
