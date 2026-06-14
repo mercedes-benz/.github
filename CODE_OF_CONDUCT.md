@@ -1,47 +1,52 @@
 # Mercedes-Benz Open Source Code of Conduct
 
-
 ## Purpose
 
-The Mercedes-Benz Free and Open Source Software (FOSS) Code of Conduct defines the proper behavior and the responsibilities for contributing and participating in FOSS communities to facilitate an open and welcoming culture that encourages active participation, learning, and constructive FOSS community interaction.
+The Mercedes-Benz Free and Open Source Software (FOSS) Code of Conduct defines the proper behavior and the responsibilities for contributing to and participating in FOSS communities, for the purpose of facilitating an open and welcoming culture that encourages active participation, learning, and constructive FOSS community interaction.
 
 The Mercedes-Benz FOSS Code of Conduct is created based on the [Mercedes-Benz Integrity Code](https://group.mercedes-benz.com/company/compliance/integrity-code.html) and extends and details the Mercedes-Benz Integrity Code with regard to the proper behavior for contribution and participation in FOSS communities. The Mercedes-Benz FOSS Code of Conduct does not restrict the Mercedes-Benz Integrity Code in any way.
 
-The Mercedes-Benz FOSS Code of Conduct applies to all FOSS community interactions with Mercedes-Benz, of Mercedes-Benz, within Mercedes-Benz and within the public, whenever an individual is part of or representing a FOSS community.
+The Mercedes-Benz FOSS Code of Conduct applies to all FOSS community interactions
+
+a) with Mercedes-Benz,
+b) of Mercedes-Benz,
+c) within Mercedes-Benz, and
+d) within the public,
+
+in each case insofar as an individual is part of or represents a FOSS community.
 
 ## Behavior
 
-Participants are committed to contribute and participate in FOSS communities in a harassment-free culture and environment for everyone regardless of gender, sexual identity and orientation, religion, disability, illness, ethnicity, socioeconomic status, nationality, age, level of experience, and education.
+Participants commit to contributing to and participating in FOSS communities within a harassment-free culture and environment for all persons, without regard to gender, sexual identity and orientation, religion, disability, illness, ethnicity, socioeconomic status, nationality, age, level of experience, or education.
 
-Examples for expected behavior to create a positive culture and environment:
+**Expected behavior:**
 
-* Being nice, friendly, welcoming, and inclusive
-* Acting considerate, modest, and respectful
-* Criticize constructively and accept constructive criticism
-* Respect different points of view and the experiences of individuals
-* Encourage for collaboration
-* Being mindful and empathetic towards other individuals
-* Focusing on benefits for the community
-* Using polite and inclusive language
+a) Being nice, friendly, welcoming, and inclusive;
+b) Acting considerate, modest, and respectful;
+c) Criticizing constructively and accepting constructive criticism;
+d) Respecting different points of view and the experiences of others;
+e) Encouraging collaboration;
+f) Being mindful and empathetic toward other individuals;
+g) Focusing on benefits for the community;
+h) Using polite and inclusive language.
 
-Examples for unacceptable behavior that will not be tolerated:
+**Unacceptable behavior:**
 
-* Intimidating other individuals
-* Political or personal attacks as well as publishing private information without permission (e. g. an address)
-* Trolling
-* Using sexualized language
-* Insulting, derogatory, harmful or prejudicial verbal or written comments
-* Harassment
+a) Intimidating others;
+b) Political or personal attacks, as well as the publication of private information without permission (e.g., an address);
+c) Trolling;
+d) Using sexualized language;
+e) Insulting, derogatory, harmful, or prejudicial verbal or written comments;
+f) Harassment.
 
 ## Responsibilities
 
-By contributing and participating in Mercedes-Benz managed FOSS communities, external individuals and Mercedes-Benz employees are obliged to comply with the Mercedes-Benz FOSS Code of Conduct. Contributors are obligated to respect internationally recognized human rights and to promote adherence to them. By contributing and participating in non-Mercedes-Benz managed (external) FOSS communities, Mercedes-Benz employees are obliged to comply with the Mercedes-Benz FOSS Code of Conduct as well.
+By contributing to and participating in Mercedes-Benz-managed FOSS communities, external individuals and Mercedes-Benz employees are obliged to comply with the Mercedes-Benz FOSS Code of Conduct. Contributors are obligated to respect internationally recognized human rights and to promote adherence to them. By contributing to and participating in non-Mercedes-Benz-managed (external) FOSS communities, Mercedes-Benz employees are likewise obliged to comply with the Mercedes-Benz FOSS Code of Conduct.
 
-Mercedes-Benz is responsible to define the values and put rules for proper behavior into practice and to take appropriate and corrective actions in any case of unacceptable behavior as per this FOSS Code of Conduct. In case of individuals violating the Mercedes-Benz FOSS Code of Conduct, Mercedes-Benz has the authority to reject, edit, or remove the contributions (e. g. comments, source code commits, and discussion entries) in Mercedes-Benz-managed FOSS communities. In addition, Mercedes-Benz may, but is not obliged to explain why the behavior of the individual negatively impacted other individuals and give a warning in public or in private. Furthermore Mercedes-Benz is allowed to ban participants with inappropriate behavior temporarily or permanently.
-
+Mercedes-Benz is responsible for defining the values and implementing the rules for proper behavior and for taking appropriate and corrective actions in any case of unacceptable behavior as defined in this FOSS Code of Conduct. In the event that an individual violates the Mercedes-Benz FOSS Code of Conduct, Mercedes-Benz has the authority to reject, edit, or remove the contributions (e.g., comments, source code commits, and discussion entries) in Mercedes-Benz-managed FOSS communities. In addition, Mercedes-Benz may, but is not obligated to, explain why the behavior of the individual negatively impacted others and to issue a warning, whether publicly or privately. Furthermore, Mercedes-Benz is permitted to temporarily or permanently ban participants who engage in inappropriate behavior.
 
 ## Enforcement
 
-To put the values for proper behavior into practice, the Mercedes-Benz FOSS Code of Conduct has to be enforced. Any Mercedes-Benz FOSS Code of Conduct irregularity (e. g. through unacceptable behavior) shall be reported to <foss@mercedes-benz.com>. After reporting a Mercedes-Benz FOSS Code of Conduct irregularity, the complaint will be evaluated and appropriate action will be taken if deemed necessary. The confidentiality with regard to the reporter of the Mercedes-Benz FOSS Code of Conduct irregularity is ensured by Mercedes-Benz at any time.
+To put the values of proper behavior into practice, the Mercedes-Benz FOSS Code of Conduct must be enforced. Any irregularity (e.g., through unacceptable behavior) shall be reported to <foss@mercedes-benz.com>. Following a report, the complaint shall be evaluated and appropriate action shall be taken if deemed necessary. Confidentiality with regard to the reporting person is ensured by Mercedes-Benz at all times.
 
-If you have concrete indications of major risk violations in connection with the Mercedes-Benz Group, you can always contact the [Whistleblower System BPO](https://group.mercedes-benz.com/sustainability/society-governance/compliance-integrity/bpo.html) directly.
+If concrete indications of major risk violations in connection with the Mercedes-Benz Group exist, the [Whistleblower System BPO](https://group.mercedes-benz.com/sustainability/society-governance/compliance-integrity/bpo.html) may be contacted directly.
