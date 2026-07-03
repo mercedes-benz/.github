@@ -8,7 +8,7 @@ Overall we are giving our best to be a good citizen in the open source community
 
 # Contributing
 
-While this repo is public, we look forward to your contributions on our software projects since this repo focusses on supporting materials that support open source collaboration on our software projects.
+Despite the public nature of this repo, we would rather that you do not contribute here but rather look forward to your contributions on our software projects since this repo focusses on supporting materials that support open source collaboration on our software projects.
 
 # Contact
 We really want to learn from you and are happy to hear your thoughts and questions at <foss@mercedes-benz.com>.
