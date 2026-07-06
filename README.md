@@ -1,6 +1,6 @@
 # Mercedes-Benz on Github
 
-This organization on github.com is our primary location to publish open source software projects and to host materials that support this endeavour like our [FOSS code of conduct](CODE_OF_CONDUCT.md) and [security policy](https://github.com/mercedes-benz/.github/blob/main/SECURITY.md). For a a list of custom license identifiers for our FOSS disclosure process, please go to our [FOSS repo](https://github.com/mercedes-benz/foss).
+The [mercedes-benz](https://github.com/mercedes-benz) organization on github.com is our primary location to publish open source software projects and to host materials that support this endeavour like our [FOSS code of conduct](CODE_OF_CONDUCT.md) and [security policy](SECURITY.md). For a a list of custom license identifiers for our FOSS disclosure process, please go to our [FOSS repo](https://github.com/mercedes-benz/foss).
 
 # Mercedes-Benz Group and FOSS
 Open Source emerged to play an important role in our products. We contribute to projects, open source our own software projects here on gitHub.com/mercedes-benz and we are sponsoring several open source projects. You can follow our open source journey on our [landing page](https://opensource.mercedes-benz.com/) and have a look behind the scenes.
